@@ -3,7 +3,7 @@ Hello! I'm Yosef, a passionate Fullstack Developer!
 
 <table>
   <tr>
-    <td><img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" width="500"></td>
+    <td><img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" width="400"></td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=theyosefegy&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
       <br/>
